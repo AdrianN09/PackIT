@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=62b27d19_002D12bf_002D48b3_002D82a6_002Ddb9992494af9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddItem_Throws_PackingItemAlreadyExistsException_When_There_Is_Already_Item_With_The_Same_Name" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FE09B96-027F-4EA6-AFE7-884B946F1D7A::net6.0::PackIT.UnitTests.Domain.PackingListTests.AddItem_Throws_PackingItemAlreadyExistsException_When_There_Is_Already_Item_With_The_Same_Name&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FE09B96-027F-4EA6-AFE7-884B946F1D7A::net6.0::PackIT.UnitTests.Domain.PackingListTests.AddItem_Adds_PackingItemAdded_Domain_Event_On_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FE09B96-027F-4EA6-AFE7-884B946F1D7A::net6.0::PackIT.UnitTests.Application.CreatePackingListWithItemsHandlerTests.HandleAsync_Throws_PackingListAlreadyExistsException_When_List_With_The_Same_Name_Exists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FE09B96-027F-4EA6-AFE7-884B946F1D7A::net6.0::PackIT.UnitTests.Application.CreatePackingListWithItemsHandlerTests.HandleAsync_Throws_PackingListAlreadyExistsException_When_List_With_same_Name_Already_Exists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FE09B96-027F-4EA6-AFE7-884B946F1D7A::net6.0::PackIT.UnitTests.Application.CreatePackingListWithItemsHandlerTests.HandleAsync_Throws_MissingLocalizationWeatherException_When_List_When_Weather_Is_Not_Returned_From_Service&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FE09B96-027F-4EA6-AFE7-884B946F1D7A::net6.0::PackIT.UnitTests.Application.CreatePackingListWithItemsHandlerTests.HandleAsync_Calls_Repository_On_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FE09B96-027F-4EA6-AFE7-884B946F1D7A::net6.0::PackIT.UnitTests.Application.CreatePackingListWithItemsHandlerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

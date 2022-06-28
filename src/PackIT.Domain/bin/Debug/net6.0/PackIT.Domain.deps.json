@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PackIT.Domain/1.0.0": {
+        "dependencies": {
+          "PackIT.Shared.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "PackIT.Domain.dll": {}
+        }
+      },
+      "PackIT.Shared.Abstractions/1.0.0": {
+        "runtime": {
+          "PackIT.Shared.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PackIT.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PackIT.Shared.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
